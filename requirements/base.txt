@@ -27,3 +27,4 @@ PyJWT
 django-haystack
 Whoosh
 drf-haystack
+whitenoise
